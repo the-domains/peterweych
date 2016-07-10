@@ -1,0 +1,14 @@
+layout_spectrum: 0.01437343005090952
+typography_spectrum: 0.14252150361426175
+color:
+  brandStrength: 0.5870855115354061
+  lightness: 0.12603686517104506
+  saturation: 0.3442911945749074
+  rhythmicContrast: 0.4762414691504091
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: peterwey.ch
